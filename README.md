@@ -1,2 +1,2 @@
 # Basic
-This is repository of basic program
+This is repository for basic program
